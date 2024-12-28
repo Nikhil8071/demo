@@ -66,10 +66,3 @@ insert into bike values(10,	'Road Bike 3'	,'road bike',12.00	,60.00	,'available'
 
 
 
-insert into rental values(1,	1,	1,	'2022-11-01 10:00:00',	240,	50.00);
-insert into rental values(2,	1,	1,	'2022-11-02 10:00:00',	245,	50.00);
-insert into rental values(3,	1,	1,	'2022-11-03 10:00:00',	250,	50.00);
-insert into rental values(4,	1,	1,	'2022-11-04 10:00:00',	235,	50.00);
-insert into rental values(5,	1,	1,	'2022-12-05 10:00:00',	155,	50.00);
-insert into rental values(6,	2,	2,	'2022-12-08 11:00:00',	250,	60.00);
-insert into rental values(7,	3,	3,	'2022-12-13 12:00:00',	245,	40.00);
