@@ -65,4 +65,6 @@ insert into bike values(9,	'Mountain Bike 3'	,'mountain bike'	,10.00	,50.00	,'re
 insert into bike values(10,	'Road Bike 3'	,'road bike',12.00	,60.00	,'available');
 
 
-
+insert into membership_type values(1,'Basic Monthly',	'Unlimited rides with non-electric bikes. Renews monthly.',	100.00);
+insert into membership_type values(2,'Basic Annual',	'Unlimited rides with non-electric bikes. Renews annually.',500.00);
+insert into membership_type values(3,'Premium Monthly',	'Unlimited rides with all bikes. Renews monthly.',	200
